@@ -4,7 +4,7 @@
 **Hazırlayan:** Beyza Çevik
 **Öğrenci No:** 20230108010
 
----
+
 
 ## Projenin Genel Amacı
 
@@ -13,7 +13,7 @@ Projenin hedefi; nesneye dayalı programlama prensiplerini kullanarak kitap, ö�
 
 Bu sistemde kullanıcı yeni kitaplar ve öğrenciler ekleyebilir, ekli kayıtları listeleyebilir, kitap ödünç verme ve geri alma işlemlerini gerçekleştirebilir.
 
----
+
 
 ## Kullanılan Teknolojiler
 
@@ -24,7 +24,7 @@ Bu sistemde kullanıcı yeni kitaplar ve öğrenciler ekleyebilir, ekli kayıtla
 * ArrayList
 * IntelliJ IDEA
 
----
+
 
 ## Sınıf Yapısı
 
@@ -61,7 +61,7 @@ Bu sistemde kullanıcı yeni kitaplar ve öğrenciler ekleyebilir, ekli kayıtla
 * Tabloları oluşturur
 * Bağlantının çalışmasını kontrol eder
 
----
+
 
 ## Repository Yapısı
 
@@ -82,7 +82,7 @@ Bu sınıflarda bulunan ortak metotlar:
 
 LoanRepository ek olarak bir kitabın ödünçte olup olmadığını kontrol eden metot içerir.
 
----
+
 
 ## Veri Tabanı Yapısı
 
@@ -100,7 +100,7 @@ LoanRepository ek olarak bir kitabın ödünçte olup olmadığını kontrol ede
 
 Tablolar uygulama çalışmaya başladığında otomatik olarak oluşturulur.
 
----
+
 
 ## Uygulama Menüsü
 
@@ -117,7 +117,7 @@ Konsol ekranı üzerinden kullanıcıya şu işlemler sunulur:
 
 Ödünç listeleme ekranında **kitap adı** ve **öğrenci adı** ilişkisel olarak görüntülenir.
 
----
+
 
 ## Kurulum
 
@@ -127,7 +127,7 @@ Konsol ekranı üzerinden kullanıcıya şu işlemler sunulur:
 4. Uygulamayı `Main.java` üzerinden çalıştırın.
 5. Veritabanı dosyası (`smartlibrary.db`) otomatik olarak oluşturulur.
 
----
+
 
 ## Sonuç
 
