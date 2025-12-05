@@ -5,6 +5,8 @@
 **Öğrenci No:** 20230108010
 
 
+## Kodlar için main Branchten master Branche geçiniz
+
 
 ## Projenin Genel Amacı
 
